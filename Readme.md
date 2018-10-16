@@ -1,6 +1,6 @@
 # Reinforcement Learning: Vision Based Agent trained with Actor Critic playing Slither.IO
 * **Training a vision-based agent with the Actor Critic model in an online environment, implementation in Tensorflow.**
-* **Click on the image below to see the DEMO VIDEO:**
+* **Click on the image below to see the [DEMO VIDEO](https://youtu.be/8iRD1w73fDo):**
 [![Demo Video](https://github.com/andi611/RL_actor_critic_slitherio_Tensorflow/blob/master/data/gameplay.png)](https://youtu.be/8iRD1w73fDo)
 
 

@@ -38,8 +38,8 @@
 
 ## Usage
 ```
-python3 ./src/train_AC.py train
-python3 ./src/play_AC.py train
+python3 ./src/train_AC.py
+python3 ./src/play_AC.py
 ```
 
 ## Detail
